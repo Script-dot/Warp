@@ -4,7 +4,7 @@ tool = Instance.new("Tool")
  
 tool.RequiresHandle = false 
  
-tool.Name = "วาป" 
+tool.Name = "Equip to Click TP" 
  
 tool.Activated:connect(function() 
  
@@ -16,4 +16,4 @@ game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = pos
  
 end) 
  
-tool.Parent = game.Players.LocalPlayer.Backpack￼Enter
+tool.Parent = game.Players.LocalPlayer.Backpack
