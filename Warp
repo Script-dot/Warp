@@ -4,7 +4,7 @@ tool = Instance.new("Tool")
  
 tool.RequiresHandle = false 
  
-tool.Name = "เดี๋ยวมึงโดนกูตอก" 
+tool.Name = "วาป" 
  
 tool.Activated:connect(function() 
  
